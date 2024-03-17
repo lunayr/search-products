@@ -25,4 +25,4 @@ function handleSearch(event: SubmitEvent) {
   inputProduct.value = "";
 }
 
-//, Name: ${product.title}, des: ${product.description}
+
