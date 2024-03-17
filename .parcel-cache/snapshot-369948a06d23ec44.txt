@@ -5,7 +5,7 @@
 108C:\Users\Esra\Desktop\dummyShop\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133548919399881574 0
 85C:\Users\Esra\Desktop\dummyShop\node_modules\caniuse-lite\data\features\pdf-viewer.js133548919406462910 0
 52C:\Users\Esra\Desktop\dummyShop\node_modules\yallist133548919383508627 1
-44C:\Users\Esra\Desktop\dummyShop\package.json133551625660739137 0
+44C:\Users\Esra\Desktop\dummyShop\package.json133551627849808191 0
 42C:\Users\Esra\Desktop\dummyShop\.gitignore133551624762829204 0
 64C:\Users\Esra\Desktop\dummyShop\node_modules\color-name\index.js133548919382010702 0
 82C:\Users\Esra\Desktop\dummyShop\node_modules\htmlnano\lib\modules\mergeScripts.mjs133548919396469952 0
@@ -27,7 +27,7 @@
 92C:\Users\Esra\Desktop\dummyShop\node_modules\csso\node_modules\mdn-data\css\definitions.json133548919388266090 0
 41C:\Users\Esra\Desktop\dummyShop\README.md133551620787595681 0
 61C:\Users\Esra\Desktop\dummyShop\node_modules\srcset\readme.md133548919383116788 0
-36C:\Users\Esra\Desktop\dummyShop\docs133551626077941833 1
+36C:\Users\Esra\Desktop\dummyShop\docs133551628002878571 1
 125C:\Users\Esra\Desktop\dummyShop\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1133548919417170442 0
 81C:\Users\Esra\Desktop\dummyShop\node_modules\dom-serializer\node_modules\entities133548919389049778 1
 82C:\Users\Esra\Desktop\dummyShop\node_modules\@swc\helpers\esm\_set_prototype_of.js133548919398696354 0
@@ -607,7 +607,7 @@
 102C:\Users\Esra\Desktop\dummyShop\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\walk.cjs133548919397814351 0
 70C:\Users\Esra\Desktop\dummyShop\node_modules\node-addon-api\napi-inl.h133548919388057786 0
 69C:\Users\Esra\Desktop\dummyShop\node_modules\node-addon-api\nothing.c133548919381460165 0
-47C:\Users\Esra\Desktop\dummyShop\docs\index.html133551626077822796 0
+47C:\Users\Esra\Desktop\dummyShop\docs\index.html133551628002759555 0
 96C:\Users\Esra\Desktop\dummyShop\node_modules\typescript\lib\cs\diagnosticMessages.generated.json133551622869467212 0
 69C:\Users\Esra\Desktop\dummyShop\node_modules\cosmiconfig\dist\util.js133548919385502553 0
 85C:\Users\Esra\Desktop\dummyShop\node_modules\lightningcss-win32-x64-msvc\package.json133548919382313269 0
@@ -936,7 +936,7 @@
 100C:\Users\Esra\Desktop\dummyShop\node_modules\csso\node_modules\css-tree\lib\parser\parse-selector.js133548919399926215 0
 100C:\Users\Esra\Desktop\dummyShop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133548919395056344 0
 99C:\Users\Esra\Desktop\dummyShop\node_modules\css-select\node_modules\domutils\lib\manipulation.d.ts133548919394852997 0
-59C:\Users\Esra\Desktop\dummyShop\docs\index.8f1109b3.css.map133551626077917038 0
+59C:\Users\Esra\Desktop\dummyShop\docs\index.8f1109b3.css.map133551628002848812 0
 75C:\Users\Esra\Desktop\dummyShop\node_modules\typescript\lib\lib.es2019.d.ts133551622870856448 0
 81C:\Users\Esra\Desktop\dummyShop\node_modules\@parcel\core\lib\UncommittedAsset.js133548919399216930 0
 65C:\Users\Esra\Desktop\dummyShop\node_modules\@parcel\profiler\lib133548919389922742 1
@@ -1343,7 +1343,7 @@
 65C:\Users\Esra\Desktop\dummyShop\node_modules\fill-range\README.md133548919383245745 0
 73C:\Users\Esra\Desktop\dummyShop\node_modules\mdn-data\css\properties.json133548919389987227 0
 53C:\Users\Esra\Desktop\dummyShop\node_modules\svgo\lib133548919392164661 1
-55C:\Users\Esra\Desktop\dummyShop\docs\index.8f1109b3.css133551626077852553 0
+55C:\Users\Esra\Desktop\dummyShop\docs\index.8f1109b3.css133551628002794249 0
 68C:\Users\Esra\Desktop\dummyShop\node_modules\ordered-binary\index.js133548919383543345 0
 76C:\Users\Esra\Desktop\dummyShop\node_modules\caniuse-lite\data\regions\ID.js133548919403154599 0
 86C:\Users\Esra\Desktop\dummyShop\node_modules\svgo\plugins\addAttributesToSVGElement.js133548919392774741 0
@@ -6029,5 +6029,5 @@
 58C:\Users\Esra\Desktop\dummyShop\node_modules\.bin\tsserver133551622871679139 0
 62C:\Users\Esra\Desktop\dummyShop\node_modules\.bin\tsserver.cmd133551622871679139 0
 76C:\Users\Esra\Desktop\dummyShop\node_modules\.bin\update-browserslist-db.ps1133548919417140677 0
-54C:\Users\Esra\Desktop\dummyShop\docs\index.0231c89a.js133551626077852553 0
-58C:\Users\Esra\Desktop\dummyShop\docs\index.0231c89a.js.map133551626077921994 0
+54C:\Users\Esra\Desktop\dummyShop\docs\index.0231c89a.js133551628002794249 0
+58C:\Users\Esra\Desktop\dummyShop\docs\index.0231c89a.js.map133551628002848812 0
