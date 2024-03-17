@@ -1,5 +1,7 @@
 node_modules
-docs
+
 .package-lock.json
 
 package-lock.json
+
+.parcel-cache
