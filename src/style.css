@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding: 0px 32px;
+}
+
+#product-list {
+  padding: 32px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 32px;
+}
+
+.product-card {
+  display: flex;
+  flex-direction: column;
+  border: solid 1px #ccc;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.product-card img {
+  aspect-ratio: 3/2;
+  object-fit: cover;
+  border-bottom: solid 1px #ccc;
+}
+
+.product-card .info {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  /* border-bottom: solid 1px #ddd; */
+  flex: 1 1 auto;
+}
+
+.product-card .category {
+  padding: 4px 8px;
+  background: #f1f3eb;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+
+.product-card .title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.product-card .description {
+  padding: 0;
+  margin: 0;
+}
+
+.product-card .metadata {
+  display: flex;
+  padding: 16px;
+}
+
+.product-card .metadata div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+#searchForm {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  justify-content: center;
+  padding: 32px 0px;
+}
+
+#searchForm button, .metadata button {
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  color: rgb(255, 255, 255);
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  background-color: rgb(89, 134, 114);
+}
+
+#inputProduct {
+  width: 60%;
+  height: 40px;
+  border-radius: 100px;
+  padding-left: 24px;
+}
